@@ -1,0 +1,11 @@
+{
+  "name": "ovningwebbshop",
+  "version": "1.0.0",
+  "description": "Övning inför webshop uppgift",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Hanna Goldhammer",
+  "license": "ISC"
+}

@@ -1,0 +1,9 @@
+1. skapa ett node projekt (npm init)
+2. github repo 
+3. filstruktur 
+4. definerear mvp (minimal viable product)
+5. skriva tester 
+6. börja utvecklingen 
+
+
+tankar om produkten 
